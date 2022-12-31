@@ -1,0 +1,3 @@
+﻿  18 C 内存设置.c
+D:\Project VS\C\18 C 内存设置\18 C 内存设置\18 C 内存设置.c(6,2): warning C4013: “memset”未定义；假设外部返回 int
+  18 C 内存设置.vcxproj -> D:\Project VS\C\18 C 内存设置\x64\Debug\18 C 内存设置.exe
